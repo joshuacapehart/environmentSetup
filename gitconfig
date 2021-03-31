@@ -1,0 +1,8 @@
+user.email=joshuacapehart@gmail.com
+user.name=Joshua Capehart
+alias.co=checkout
+alias.st=status
+alias.ci=commit
+alias.br=branch
+alias.unstage=reset HEAD --
+alias.last=log -1 HEAD
