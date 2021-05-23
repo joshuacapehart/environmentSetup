@@ -1,8 +1,13 @@
-user.email=joshuacapehart@gmail.com
-user.name=Joshua Capehart
-alias.co=checkout
-alias.st=status
-alias.ci=commit
-alias.br=branch
-alias.unstage=reset HEAD --
-alias.last=log -1 HEAD
+[user]
+        email = joshuacapehart@gmail.com
+        name = Joshua Capehart
+[alias]
+        co = checkout
+        st = status
+        ci = commit
+        br = branch
+        unstage = reset HEAD --
+        last = log -1 HEAD
+[core]
+        editor = vi
+
